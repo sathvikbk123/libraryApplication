@@ -1,0 +1,8 @@
+applications:
+- name: plasma
+path: target/libraryApp.war
+domain: cfapps.io
+memory: 1G
+instances: 1
+services:
+- mysql

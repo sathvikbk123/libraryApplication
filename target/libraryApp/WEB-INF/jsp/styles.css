@@ -1,0 +1,35 @@
+nav{
+	background-color: #484c7f;
+	color: white;
+	padding: 20px 10px 20px 10px !important;
+}
+nav a {
+	color: white;
+}
+
+nav a:hover{
+	color: rgb(228, 203, 203);
+	text-decoration: none;
+}
+.card img{
+	height: 150px
+}
+.card{
+	margin: 20px auto 20px auto;
+	text-align:center;
+}
+.container{
+	margin-top: 30px;
+	width: 70% !important;
+	text-align: center;
+}
+label{
+	font-size: 1.2rem;
+	font-weight:600;
+}
+input{
+	width: 250px;
+}
+.btn-secondary{
+	margin-left: 20px;
+}
